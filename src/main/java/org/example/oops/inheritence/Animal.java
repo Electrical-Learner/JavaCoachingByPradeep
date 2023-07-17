@@ -19,4 +19,7 @@ public abstract class Animal {
     public void animalGo() {
         System.out.println("Animal Gone");
     }
+    Animal(){
+
+    }
 }
